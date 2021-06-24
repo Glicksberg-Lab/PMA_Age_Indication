@@ -15,3 +15,8 @@ AgeIndication_Gap notebook has code surrounding the lag time in approval between
 
 Annotations from PubAnnotation can be found here: http://pubannotation.org/projects/consensus_PMA_Age_Indications
 
+Supporting Manuscript:
+https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2781217
+
+Citation:
+Lee SJ, Cho L, Klang E, Wall J, Rensi S, Glicksberg BS. Quantification of US Food and Drug Administration Premarket Approval Statements for High-Risk Medical Devices With Pediatric Age Indications. JAMA Netw Open. 2021;4(6):e2112562. doi:10.1001/jamanetworkopen.2021.12562
